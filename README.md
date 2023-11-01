@@ -1,5 +1,5 @@
 <samp>
-  <h3>tyooou.</h3>
+  <h3>tyooou</h3>
   An aspiring developer and designer based in New Zealand.
   <br/>
   My philosophy revolves around creating impact and influence in my projects.
