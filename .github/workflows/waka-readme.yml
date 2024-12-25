@@ -1,4 +1,4 @@
-name: Waka Readme
+name: waka-readme
 
 on:
   # for manual workflow trigger
@@ -15,3 +15,17 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          LANG_COUNT: 5
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+
+          # Commit Configuration
+          COMMIT_MESSAGE: Updated waka-readme graph with current metrics.
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Tyler Young
