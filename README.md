@@ -1,6 +1,6 @@
 <samp>
-  <h3>   tyooou.</h3>
-     software developer + designer
+  <h3>‏‏‎ ‎tyooou.</h3>
+  ‎‎‏‏‎ ‎software developer + designer
   <br/><br/>
   <!--START_SECTION:waka-->
 
