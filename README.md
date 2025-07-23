@@ -1,7 +1,15 @@
+## <samp><h3>tyou.</h3></samp>
 <samp>
-   <h3>tyooou.</h3>
-   software developer + designer
-   <br/><br/>
+   
+   - Studying SW @ UoA
+   - I build scalable full-stack projects and digital experiences
+   - Browse my portfolio [tyou.io](www.google.com), or reach out directly via [tyou333@aucklanduni.ac.nz](www.google.com)
+
+#### projects.
+- habitual - make habits a daily ritual
+- pixai - pixelize anything, beautifully
+
+#### stats.
   <!--START_SECTION:waka-->
 
 ```txt
