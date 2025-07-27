@@ -3,7 +3,7 @@
    
    - Studying SW @ UoA
    - I build scalable full-stack projects and digital experiences
-   - Browse my portfolio [tyou.io](www.google.com), or reach out directly via [tyou333@aucklanduni.ac.nz](www.google.com)
+   - Browse my portfolio [tyooou.github.io/tyleryoung/](http://tyooou.github.io/tyleryoung/), or reach out directly via [tyou333@aucklanduni.ac.nz](mailto:tyou333@aucklanduni.ac.nz)
 
 #### projects.
 - habitual - make habits a daily ritual
