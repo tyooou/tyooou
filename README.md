@@ -13,15 +13,15 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 09 August 2025
+From: 24 December 2024 - To: 10 August 2025
 
-Total Time: 96 hrs 53 mins
+Total Time: 99 hrs 49 mins
 
-C++           46 hrs 29 mins  ████████████░░░░░░░░░░░░░   47.80 %
-TypeScript    20 hrs 23 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
-JavaScript    15 hrs 37 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-C             5 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Objective-C   1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+C++                                46 hrs 29 mins  ███████████▓░░░░░░░░░░░░░   46.40 %
+TypeScript                         20 hrs 23 mins  █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+JavaScript                         16 hrs 3 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+C                                  5 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+C#                                 1 hr 52 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
