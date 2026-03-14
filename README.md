@@ -7,7 +7,7 @@
 
 #### projects.
 - habitual - make habits a daily ritual
-- pixai - pixelize anything, beautifully
+- aesth - creatives for creatives
 
 #### stats.
   <!--START_SECTION:waka-->
