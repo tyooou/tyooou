@@ -13,15 +13,15 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 23 May 2026
+From: 24 December 2024 - To: 24 May 2026
 
-Total Time: 342 hrs 30 mins
+Total Time: 345 hrs 6 mins
 
-TypeScript                         98 hrs 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.46 %
-Java                               59 hrs 37 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-JavaScript                         52 hrs 50 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-C++                                46 hrs 37 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Python                             19 hrs 54 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+TypeScript                         99 hrs 41 mins        ███████░░░░░░░░░░░░░░░░░░   28.50 %
+Java                               59 hrs 37 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+JavaScript                         52 hrs 52 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
+C++                                46 hrs 37 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Python                             19 hrs 54 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
 ```
 
 <!--END_SECTION:waka-->
